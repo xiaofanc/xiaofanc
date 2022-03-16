@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Cynthia
 
 
 - 🔭 Currently working on Georgia Tech OMSCS program
