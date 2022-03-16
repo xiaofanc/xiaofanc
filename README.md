@@ -2,7 +2,7 @@
 
 
 - 📚 Currently working on Georgia Tech OMSCS program
-- 🌱 Learning how to be a 💻 Software Engineer
+- 🌱 Learning to be a 💻 Software Engineer
 - 😄 With three years' working experience on Data Analysis and Data Engineering
 - 🏂 Like snowboarding, playing :tennis: and :basketball:
 - 🍻 Interested in 📱 Software Development, 🤖 Machine Learning and Consulting
